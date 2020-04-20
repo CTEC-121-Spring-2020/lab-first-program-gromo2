@@ -1,7 +1,7 @@
 """
 CTEC 121
-<your name>
-<assignment/lab name>
+<Garrett>
+<Stage, Commit, and Push Assignment>
 <assignment/lab description
 """
 
@@ -12,6 +12,6 @@ Output: return value and description
 """
 
 def main():
-    # code here
+    print("Hello World!")
 
 main()    
